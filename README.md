@@ -1,2 +1,0 @@
-# AulaJavaScripet
-Introdução ao JavaScripet
