@@ -1,8 +1,22 @@
 # AulaJavaScripet
 Introdução ao JavaScripet
 
-const salario = pegaSalarioDoFuncionario();
-const salarioFormatado =  parseInt(salario);
-const aumento = 20;
-const novoSalario = ( salario * aumento)/100) + salarioFormatado;
-console.log( "Seu novo salário é: " + novoSalario );
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+   <title>Devin - Calculadora Simples</title
+
+<style type="text/css">
+<!--
+/* Conteúdo do CSS */
+-->
+</style>
+
+<script type="text/javascript">
+<!--
+/* Conteúdo do JavaScript */
+-->
+</script>
+
+</head>
+<body>
